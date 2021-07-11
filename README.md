@@ -1,1 +1,1 @@
-# quadratic-equation
+# quadratic-equation calculator
